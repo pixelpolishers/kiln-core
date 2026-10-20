@@ -17,7 +17,7 @@ The code has no dependencies besides the standard library and a JSON Schema vali
 
 ## Use
 
-```
+```sh
 go get github.com/pixelpolishers/kiln-core
 ```
 
@@ -31,7 +31,7 @@ The JSON schemas live in [kiln-schema](https://github.com/pixelpolishers/kiln-sc
 
 ## Develop
 
-```
+```sh
 go test ./...
 ```
 
